@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/css/main.56a41044.chunk.css",
-    "main.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/main.4fdeaea4.chunk.js",
-    "main.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/main.4fdeaea4.chunk.js.map",
-    "runtime-main.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/runtime-main.d538d20b.js",
-    "runtime-main.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/runtime-main.d538d20b.js.map",
-    "static/js/2.04d0bdee.chunk.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/2.04d0bdee.chunk.js",
-    "static/js/2.04d0bdee.chunk.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/2.04d0bdee.chunk.js.map",
-    "static/js/3.365add5f.chunk.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/3.365add5f.chunk.js",
-    "static/js/3.365add5f.chunk.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/3.365add5f.chunk.js.map",
-    "index.html": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/index.html",
-    "static/css/main.56a41044.chunk.css.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/css/main.56a41044.chunk.css.map",
-    "static/js/2.04d0bdee.chunk.js.LICENSE.txt": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/js/2.04d0bdee.chunk.js.LICENSE.txt",
-    "static/media/confetti.4ea37647.png": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/media/confetti.4ea37647.png",
-    "static/media/cover.6626d8e4.png": "/rashaabdulrazzak/showcodechallenge2-nftfrontend.git/static/media/cover.6626d8e4.png"
+    "main.css": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/css/main.56a41044.chunk.css",
+    "main.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/main.25f921f2.chunk.js",
+    "main.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/main.25f921f2.chunk.js.map",
+    "runtime-main.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/runtime-main.4c986fe7.js",
+    "runtime-main.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/runtime-main.4c986fe7.js.map",
+    "static/js/2.e5f64a45.chunk.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/2.e5f64a45.chunk.js",
+    "static/js/2.e5f64a45.chunk.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/2.e5f64a45.chunk.js.map",
+    "static/js/3.365add5f.chunk.js": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/3.365add5f.chunk.js",
+    "static/js/3.365add5f.chunk.js.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/3.365add5f.chunk.js.map",
+    "index.html": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/index.html",
+    "static/css/main.56a41044.chunk.css.map": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/css/main.56a41044.chunk.css.map",
+    "static/js/2.e5f64a45.chunk.js.LICENSE.txt": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/js/2.e5f64a45.chunk.js.LICENSE.txt",
+    "static/media/confetti.4ea37647.png": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/media/confetti.4ea37647.png",
+    "static/media/cover.6626d8e4.png": "/rashaabdulrazzak/showcodechallenge2-nftfrontend/static/media/cover.6626d8e4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d538d20b.js",
-    "static/js/2.04d0bdee.chunk.js",
+    "static/js/runtime-main.4c986fe7.js",
+    "static/js/2.e5f64a45.chunk.js",
     "static/css/main.56a41044.chunk.css",
-    "static/js/main.4fdeaea4.chunk.js"
+    "static/js/main.25f921f2.chunk.js"
   ]
 }
