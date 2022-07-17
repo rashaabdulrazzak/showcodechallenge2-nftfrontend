@@ -1,4 +1,4 @@
-# NEARspring-nftchallenge
+# nftchallenge
 
 This challenge is the second challenge in NEAR showcode.
 This is a 2-step challenge for minting your first NFT on NEAR and creating a frontend for it. It can be as simple or complex as you like!
